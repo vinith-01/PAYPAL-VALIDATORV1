@@ -3,7 +3,7 @@
 
 <h1 align="center">
   <br>
-  <a href="http://www.darkxcode.site"><img src="https://raw.githubusercontent.com/fakgit404/PAYPAL-VALIDATORV1/master/img/pp.jpg" alt="PP" width="200"></a>
+  <a href="http://www.darkxcode.site"><img src="https://raw.githubusercontent.com/banditcodedev/PAYPAL-VALIDATORV1/master/img/pp.jpg" alt="PP" width="200"></a>
   <br>
   PayPal VALIDATION WEB BASED VERSION
   <br>
@@ -42,7 +42,7 @@ To run this tool you need to clone or download this tool.
 
 ```bash
 - Install XAMPP
-- git clone https://github.com/fakgit404/PAYPAL-VALIDATORV1.git
+- git clone https://github.com/banditcodedev/PAYPAL-VALIDATORV1.git
 - Extract files into the .htdocs folder
 - Start XAMPP
 - Goto 127.0.0.1/PAYPAL-VALIDATORV1 or localhost/PAYPAL-VALIDATORV1
@@ -63,16 +63,16 @@ To run this tool you need to clone or download this tool.
 
 ## Output
 
-![screenshot](https://raw.githubusercontent.com/fakgit404/PAYPAL-VALIDATORV1/master/img/ress.png)
+![screenshot](https://raw.githubusercontent.com/banditcodedev/PAYPAL-VALIDATORV1/master/img/ress.png)
 
 This is the result if the code is successfully deployed.
 
 ## Result Response
 
 ### Result Live
-![screenshot](https://raw.githubusercontent.com/fakgit404/PAYPAL-VALIDATORV1/master/img/live-ress.png)
+![screenshot](https://raw.githubusercontent.com/banditcodedev/PAYPAL-VALIDATORV1/master/img/live-ress.png)
 ### Result Die
-![screenshot](https://raw.githubusercontent.com/fakgit404/PAYPAL-VALIDATORV1/master/img/die-ress.png)
+![screenshot](https://raw.githubusercontent.com/banditcodedev/PAYPAL-VALIDATORV1/master/img/die-ress.png)
 
 This is the result if the code is successfully validation.
 
@@ -81,6 +81,7 @@ This is the result if the code is successfully validation.
 
 > **NOTE**
 > Warning All the information provided here is intended solely for educational and testing purposes. I do not endorse any illegal activities or unfair usage of this program.
+
 
 
 
